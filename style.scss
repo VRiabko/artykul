@@ -1,0 +1,30 @@
+body{
+   
+    background-color: rgba(131, 152, 132, 0.87);
+        background-image: radial-gradient(circle, rgba(131, 152, 132, 0.87) 35%, rgba(36, 193, 79, 0.68) 96%);
+    header{
+        
+        margin: 3rem;
+        padding: 0.5 rem;
+        text-align: center;
+    }
+    article{
+        h3{
+            margin: 3rem;
+        }
+        .img{
+            
+            text-align: center;
+            
+        }
+        
+    }
+    footer{
+       
+        margin: 3rem;
+        position:fixed;
+        bottom: 0;
+
+    }
+
+}
